@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Pisanie prac magisterskich i licencjackich na zamówienie. Szybka pomoc, zero plagiatu, najlepsze ceny. Gotowe prace naukowe, SPSS, korekty, bibliografia. Studio Akademickie – lider pisania prac dyplomowych 2025.">
+  <title>Pomoc w Pisaniu Prac Magisterskich i Licencjackich 2025 – Studio Akademickie</title>
+  <style>
+    body { font-family: Georgia, serif; line-height: 1.6; background-color: #fefcf8; color: #1d1d1f; margin: 20px; }
+    h1, h2, h3 { color: #0a3c59; }
+    section { margin-bottom: 40px; }
+    img { max-width: 100%; height: auto; border-radius: 5px; }
+    .center { text-align: center; }
+  </style>
+</head>
+<body>
+
+  <header class="center">
+    <h1>Studio Akademickie – Profesjonalna pomoc w pisaniu prac dyplomowych</h1>
+    <h2>Prace magisterskie, licencjackie, inżynierskie, zaliczeniowe i doktoranckie – 100% legalnie, dyskretnie i bez plagiatu</h2>
+    <img src="https://drive.google.com/uc?id=11G4Ps68MiU615JvhsdQ_9umv2WPVsjTN" alt="student piszący pracę magisterską przy laptopie – profesjonalna pomoc w pisaniu pracy licencjackiej, inżynierskiej, doktoranckiej – Studio Akademickie 2025">
+  </header>
+
+  <section>
+    <h2>Dlaczego warto nam zaufać?</h2>
+    <ul>
+      <li>Gotowe prace dyplomowe na zamówienie – wszystkie kierunki</li>
+      <li>Pomoc w pisaniu prac magisterskich i licencjackich – od teorii po badania</li>
+      <li>SPSS, Word, APA – pełne wsparcie analityczne i edytorskie</li>
+      <li>Gwarancja oryginalności – sprawdzamy antyplagiatem</li>
+      <li>Błyskawiczna realizacja, dyskrecja i opinie 5.0</li>
+      <li>Działamy online – cała Polska i studenci z zagranicy</li>
+    </ul>
+    <img src="https://drive.google.com/uc?id=11qIoESXdS5s9PzYD03yz911cMMKy60wO" alt="zegar z napisem Zyskaj czas – my zajmiemy się resztą – szybka pomoc w pisaniu pracy magisterskiej, licencjackiej, doktoranckiej – Studio Akademickie 2025">
+  </section>
+
+  <section>
+    <h2>Nasza oferta – pisanie prac dyplomowych na najwyższym poziomie</h2>
+    <p>Tworzymy prace licencjackie i magisterskie pod Twoje wytyczne – zgodnie z wymogami uczelni, zgodnie z APA, MLA i systemem przypisów. Oferujemy także korekty, analizę danych, badania SPSS, przygotowanie bibliografii i całych rozdziałów. Gotowe prace naukowe dostarczane terminowo, w pełni oryginalne.</p>
+    <img src="https://drive.google.com/uc?id=1ijh4DYKatUMdMSmoKd2QPB9axR_vEXyN" alt="fragment pracy dyplomowej z rozdziałem wstępnym i bibliografią – profesjonalna pomoc w pisaniu pracy magisterskiej, licencjackiej i zaliczeniowej – Studio Akademickie">
+  </section>
+
+  <section>
+    <h2>Opinie zadowolonych klientów</h2>
+    <img src="https://drive.google.com/uc?id=17hJjM9xhB_Q9U6pLw6aoWyMdsE89vlcM" alt="zadowolony absolwent trzymający dyplom – efekt profesjonalnej pomocy w pisaniu pracy magisterskiej, licencjackiej, inżynierskiej – Studio Akademickie">
+  </section>
+
+  <section>
+    <h2>Jak wygląda współpraca?</h2>
+    <img src="https://drive.google.com/uc?id=1grDxEgkOkidrNj0XTzRjClMenyQgBB-8" alt="infografika pokazująca proces współpracy: kontakt, wycena, realizacja, dostarczenie pracy – pomoc w pisaniu pracy magisterskiej i licencjackiej – Studio Akademickie">
+  </section>
+
+  <section>
+    <h2>Gwarancja jakości i bezpieczeństwa</h2>
+    <img src="https://drive.google.com/uc?id=14khUS9kFmBut52Ntp0wB9o_LohApsGqB" alt="certyfikat jakości – gwarancja 100% satysfakcji z pomocy w pisaniu pracy magisterskiej, licencjackiej, inżynierskiej i doktoranckiej – Studio Akademickie">
+  </section>
+
+  <section>
+    <h2>Pomagamy w całej Polsce – bez wychodzenia z domu</h2>
+    <img src="https://drive.google.com/uc?id=1C7gPqrbjWgstKpAdhDdV-do4g9q5BPYk" alt="Mapa Polski z zaznaczonymi miastami: Warszawa, Kraków, Poznań, Wrocław, Gdańsk, Szczecin, Katowice, Lublin, Rzeszów, Łódź, Bydgoszcz, Białystok, Olsztyn, Zielona Góra, Koszalin, Kielce, Opole – ogólnopolska pomoc w pisaniu prac magisterskich, licencjackich i doktoranckich – Studio Akademickie 2025">
+  </section>
+
+  <section>
+    <h2>Używane narzędzia i standardy akademickie</h2>
+    <img src="https://drive.google.com/uc?id=1PDdYof0UH52FNZPqr1fp6ZwzrelEQqiY" alt="Ikony narzędzi akademickich: SPSS, Microsoft Word, styl APA i styl MLA – profesjonalne opracowanie analiz statystycznych, formatowanie prac dyplomowych i publikacji naukowych – Studio Akademickie 2025, kompleksowa pomoc w pisaniu prac magisterskich i licencjackich">
+  </section>
+
+  <footer class="center">
+    <h3>Kontakt – zacznij pisać z nami</h3>
+    <p>Email: <a href="mailto:studio.akademickie@gmail.com">studio.akademickie@gmail.com</a></p>
+    <p>Facebook: <a href="https://www.facebook.com/redaktor.pisanie.prac/" target="_blank">facebook.com/redaktor.pisanie.prac</a></p>
+  </footer>
+
+</body>
+</html>
